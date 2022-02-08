@@ -1,0 +1,12 @@
+{
+  "repository": {},
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "jquery": "^3.6",
+    "fomantic-ui-css": "^2.8",
+    "alpinejs": "^3.5"
+  },
+  "devDependencies": {
+  }
+}
